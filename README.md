@@ -1,2 +1,2 @@
 # Mishka_Portofolio
-Mishka Alditya - Data Science Portofolio
+Mishka Alditya - Data Analyst Portofolio
